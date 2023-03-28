@@ -1,0 +1,20 @@
+  b   
+a c d 
+----
+Cost partial: 0
+  b a 
+  c d 
+----
+Cost partial: 1
+    a 
+b c d 
+----
+Cost partial: 3
+c   a 
+b   d 
+----
+Cost partial: 6
+
+
+Cost: 6
+Lungime: 4
